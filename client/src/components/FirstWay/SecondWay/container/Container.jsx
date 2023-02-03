@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 import React, { useEffect, useState } from 'react'
 import { useChat } from "../../context/Context";
-import ChatForm from '../../SecondWay/ChatForm'
+import ChatForm from '../ChatForm'
 import "./styles.css";
 
 
